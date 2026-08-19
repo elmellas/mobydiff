@@ -19,7 +19,7 @@ Compile both CPU/GPU paths via
 ```
 ./compile.sh all
 ```
-
+remeber to add the compilation changes
 ## Usage
 
 ```
